@@ -11,7 +11,7 @@
 
 - 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College, partnership with London Metropolitan University, UK.**
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
-- 👯 I’m looking to collaborate on **Apatkalin Sewa**
+- 👯 I’m looking to collaborate on **SmartCommunityNepal**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/samirbhandari-123/Mine-Portfolio)
 - 💬 Ask me about **React**
 - 📫 Reach me at **samirbhandari480@gmail.com**
