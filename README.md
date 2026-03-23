@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College, affiliated with London Metropolitan University, UK.**
+- 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College, partnership with London Metropolitan University, UK.**
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
 - 👯 I’m looking to collaborate on **Apatkalin Sewa**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/samirbhandari-123/Mine-Portfolio)
