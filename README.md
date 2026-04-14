@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College, partnership with London Metropolitan University, UK.**
+- 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College, partnership with London Metropolitan University, UK.
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
 - 👯 I’m looking to collaborate on SmartCommunityNepal
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-caws.vercel.app/)
