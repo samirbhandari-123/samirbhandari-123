@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Samir Bhandari</h1>
-<h3 align="center">MERN Stack & Frontend Developer from Nepal</h3>
+<h3 align="center">A Passionate MERN Stack & Frontend Developer from Nepal </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samirbhandari-123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samirbhandari-123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I am currently pursuing my Bachelor's Degree (3rd Year) at Itahari International College, affiliated with London Metropolitan University, UK.  
-- 🌱 I am currently enhancing my skills in **React, Node.js, and MongoDB**  
-- 👯 I am open to collaborating on projects such as [SmartCommunityNepal](https://samir-bhandari-smart-community-nepa.vercel.app/)  
-- 👨‍💻 You can explore all my projects at [My Portfolio](https://portfolio-caws.vercel.app/)  
-- 💬 Feel free to ask me about **React and frontend development**  
-- 📫 You can reach me at **samirbhandari480@gmail.com**  
+- 🔭  I'm currently pursuing my Bachelor's Degree at Itahari International College in 3rd Year, partnership with London Metropolitan University, UK.
+- 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 👯 I’m looking to collaborate on [SmartCommunityNepal](https://samir-bhandari-smart-community-nepa.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-caws.vercel.app/)
+- 💬 Ask me about **React**
+- 📫 Reach me at **samirbhandari480@gmail.com**
 
 ---
 
@@ -68,6 +68,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:samirbhandari480@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samirbhandari480@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Add more social links if needed -->
 </p>
