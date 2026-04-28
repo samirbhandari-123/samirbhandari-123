@@ -108,17 +108,6 @@
 
 ---
 
-### Technologies I work with includes:
-
-- Frontend Development: React.js, HTML5, CSS3, JavaScript
-- Backend Development: Node.js, Express.js
-- Database Management: MongoDB
-- Programming Languages: Python, C, C++
-- Cloud & DevOps: AWS, Docker
-- Tools & Platforms: Postman, Arduino, Git, GitHub
-
-I focus on building scalable web applications, clean user interfaces, and efficient backend systems while continuously improving my development workflow.
-
 ### 📊 GitHub Stats
 
 <p align="center">
