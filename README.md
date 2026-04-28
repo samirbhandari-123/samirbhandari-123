@@ -16,7 +16,7 @@
 - 💻 Check out my project: [SmartCommunityNepal](https://samir-bhandari-smart-community-nepa.vercel.app/)  
 - 🌐 Portfolio: [My Portfolio](https://portfolio-caws.vercel.app/)  
 - 💬 Ask me about **React & Frontend Development**  
-- 📫 Email: **samirbhandari480@gmail.com**
+- 📫 Email: **samirbhandari690@gmail.com**
 
 ---
 
