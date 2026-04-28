@@ -108,7 +108,7 @@
 
 ---
 
-### Technologies I work with include:
+### Technologies I work with includes:
 
 - Frontend Development: React.js, HTML5, CSS3, JavaScript
 - Backend Development: Node.js, Express.js
