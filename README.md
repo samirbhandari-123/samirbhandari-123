@@ -31,7 +31,7 @@
 ---
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages, Tools & Technologies
 
 <p align="center">
 
