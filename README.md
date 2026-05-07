@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a Bachelor's Degree (3rd Year) at Itahari International College, in partnership with London Metropolitan University, UK.
+- 🎓 Currently Pursuing a Bachelor's Degree  at Itahari International College(IIC), in partnership with London Metropolitan University, UK.
 - 🚀 Focused on building full-stack applications using the MERN stack  
 - 🌱 Currently learning **advanced React, Node.js, and MongoDB**  
 - 🤝 Open to collaboration on real-world projects  
