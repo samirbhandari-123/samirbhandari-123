@@ -17,6 +17,7 @@
 - 🌐 Portfolio: [My Portfolio](https://portfolio-caws.vercel.app/)  
 - 💬 Ask me about **React, Frontend & Backend Development**  
 - 📫 Email: **samirbhandari609@gmail.com**
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samir-bhandari-649018312?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
